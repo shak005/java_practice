@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shak005/java_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shak005/java_practice/tree/master/0069-sqrtx) |
+| [2235-add-two-integers](https://github.com/shak005/java_practice/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
